@@ -1,0 +1,17 @@
+{
+  "num_examples": 1550,
+  "beam_size": 1,
+  "use_chords": true,
+  "clean_basic": true,
+  "clean_chord_snap": true,
+  "snap_semitones": 1,
+  "note_precision": 0.06981078697609559,
+  "note_recall": 0.08487900966878706,
+  "note_f1": 0.07482638434597942,
+  "onset_precision": 0.180789436847646,
+  "onset_recall": 0.23045456402219616,
+  "onset_f1": 0.19755795396721085,
+  "chord_tone_ratio": 0.6946267554304062,
+  "lh_ratio_abs_error": 0.11917195348310539,
+  "rh_ratio_abs_error": 0.11917195348310539
+}

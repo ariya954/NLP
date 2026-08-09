@@ -1,0 +1,13 @@
+{
+  "num_examples": 100,
+  "beam_size": 3,
+  "note_precision": 0.05371686352848606,
+  "note_recall": 0.07174837271061674,
+  "note_f1": 0.06050798856075446,
+  "onset_precision": 0.13571288021725583,
+  "onset_recall": 0.19462266578165185,
+  "onset_f1": 0.1572052003877232,
+  "chord_tone_ratio": 0.46051576729769833,
+  "lh_ratio_abs_error": 0.1324445933357804,
+  "rh_ratio_abs_error": 0.1324445933357804
+}
